@@ -11,6 +11,8 @@ A modern, responsive personal portfolio website built with Vite + React + TypeSc
 - 📱 Fully responsive design
 - 🚀 Deployed on GitHub Pages
 
+![Screenshot from the website](image.png)
+
 ## Tech Stack
 
 - **Frontend**: React 19, TypeScript
