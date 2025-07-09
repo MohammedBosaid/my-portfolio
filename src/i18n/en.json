@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm Mohammed Bosaid.",
+    "title": "Electrical Engineering Student",
+    "subtitle": "Founder & COO of Nabbah",
+    "description": "Interested in embedded systems, robotics, AI, and IoT solutions that make a real difference.",
+    "switchToArabic": "العربية"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm Mohammed Bosaid, an electrical engineering student at Jubail Industrial College and COO of Nabbah, a tech startup focused on inclusive assistive technology. I'm currently training at Smart Methods in robotics and IoT, a McKinsey Forward graduate, and an active learner at the Future Skills Academy (UNDP & MBRF)."
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      "Founder & COO of Nabbah",
+      "Smart Methods Summer Trainee (Robotics & IoT)",
+      "McKinsey Forward Graduate",
+      "Future Skills Academy Learner (UNDP & MBRF)",
+      "Member, Electrical Engineering Club, Jubail Industrial College"
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get In Touch",
+    "email": "mohammedbousaeed@email.com",
+    "phone": "+966547595606",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "githubLabel": "GitHub",
+    "githubValue": "MohammedBosaid",
+    "githubUrl": "https://github.com/MohammedBosaid",
+    "linkedinLabel": "LinkedIn",
+    "linkedinValue": "mohammed-bosaid",
+    "linkedinUrl": "http://linkedin.com/in/mohammed-bosaid-09b38725a"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "contact": "Contact"
+  }
+}
+
